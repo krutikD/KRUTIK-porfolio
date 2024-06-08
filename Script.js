@@ -84,7 +84,7 @@ t2
     y:-800
 })
 document.addEventListener("mousemove",function(dets){
-    console.log(dets);
+    // console.log(dets);
      gsap.to('#crsr',{
         x: dets.clientX,
         y: dets.clientY,

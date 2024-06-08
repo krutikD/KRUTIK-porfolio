@@ -448,7 +448,7 @@ footer>p{
 
 @media(width <=550px) {
     
-
+    
     #navbar{
         -webkit-box-pack: justify;
             -ms-flex-pack: justify;
@@ -619,12 +619,13 @@ footer>p{
         font-size: 20px;
         text-align: justify;
     }
-    .auto{
+    #typing-animation, .auto{
         color: #80a9d2;
         font-weight: 700;
         font-size: 28px;
         line-height: 1.5;
     }
+    
     #about-left, #about-right{
         display: none;
         -webkit-box-flex: 1;
